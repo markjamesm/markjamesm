@@ -2,11 +2,7 @@
 
 [![Visit my website button](https://img.shields.io/badge/Website-markjames.dev-informational?style=flat&color=008000)](https://markjames.dev) [![Send me an email button](https://img.shields.io/badge/Email-contact@markjames.dev-informational?style=flat&color=008000)](mailto:contact@markjames.dev)
 
-My name is Mark-James, and I’m a Developer from Montreal, Canada. I have experience with:
-
-- Javascript (ES6), HTML, & CSS
-- MacOS/iOS Development (Swift)
-- C# (.NET Core)
+My name is Mark-James, and I’m a Developer from Montreal, Canada.
 
 ⚡ Fun fact: I play a [Linnstrument](https://www.youtube.com/watch?v=njY9xBz9M18)!
 
